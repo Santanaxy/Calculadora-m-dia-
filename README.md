@@ -1,4 +1,4 @@
-# Calculadora-média-dia-
+# Calculadora-média-dia
 Este projeto foi criado com a seguinte tecnologia: 
 - Python
 
